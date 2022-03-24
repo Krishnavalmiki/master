@@ -42,3 +42,7 @@
 2022-03-24 22:35:49,709 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Local_GIT\ARRA_Framework_script\demo\src\main\resources
 2022-03-24 22:35:49,712 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-03-24 22:35:49,713 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Local_GIT\ARRA_Framework_script\demo\src\test\resources
+2022-03-24 22:46:00,672 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-24 22:46:00,672 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Local_GIT\ARRA_Framework_script\demo\src\main\resources
+2022-03-24 22:46:00,674 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-24 22:46:00,674 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Local_GIT\ARRA_Framework_script\demo\src\test\resources

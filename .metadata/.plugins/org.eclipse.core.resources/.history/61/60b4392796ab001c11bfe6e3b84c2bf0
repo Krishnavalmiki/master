@@ -5,13 +5,13 @@ public class Final_Keyword {
 	final int timeout=900;
 	
 	final void run() {
-//		timeout=400;
+		timeout=400;
 	}
 	
 }
 	class fast extends Final_Keyword{
-//		void run() {
-			{System.out.println("running safely with 100kmph");
+		void run() {
+			System.out.println("running safely with 100kmph");
 		}
 
 	public static void main(String[] args) {
